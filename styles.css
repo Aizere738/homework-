@@ -1,21 +1,21 @@
 body {
-   font-family: Arial, sans-serif;
-   background-color: #f0f0f0;
-   margin: 20px;
+   font-family: Arial, sans-serif;/* шрифт */
+   background-color: #f0f0f0;/* свет фона */
+   margin: 20px;/* отступ */
 }
 p {
-   color: blue;
+   color: blue;/* свет абзацев */
 }
 .highlight {
-   font-weight: bold;
+   font-weight: bold;/* выделенный текст будет жирным */
 }
-h1{
-   #header {
-   background-color: red;
+ #header {
+   background-color: red; /* фон будет красным */
    text-align: center;
+   /* текст будет расположен в центре */
 }
+/* 2 задание */
 
-}
 h1{
  color:blueviolet;
 }
@@ -25,3 +25,4 @@ h1{
 .highlight{
    color:red;
 }
+/* здесь мы проверяем какой из команд выполнется.Выполнился id потому что он выполняеться первымю */
