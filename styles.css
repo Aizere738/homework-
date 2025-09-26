@@ -5,6 +5,13 @@ p {
 h1 {
    text-align: center;
 } 
-p1 {
+.p1 {
    font-weight:bold;
 }
+.container {
+   padding: 20px;
+   border: 1px solid black;
+   background-image: url('https://png.pngtree.com/thumb_back/fh260/background/20240731/pngtree-the-nice-nature-beautiful-background-image-image_16119763.jpg');
+}
+
+
