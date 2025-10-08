@@ -1,3 +1,32 @@
+html{
+   font-size:15px;
+   color:darkgreen;
+}
 .p1{
    font-size: 30px;
+   color:blueviolet;
+}
+.size{
+   font-size:3em;
+   color:pink;
+}
+.p2{
+   font-size:1.5rem;
+   color:brown;
+}
+.www{
+   font-size:150%;
+   color:red;
+}
+.container{
+   background-color:#8f88f1;
+   color:#0c08f3;
+}
+.box{
+   background-color: rgb(51,255,34);
+   color:black;
+}
+.class{
+   background-color: rgba(135, 47, 15,0.5);
+   color:black
 }
