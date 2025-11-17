@@ -1,0 +1,29 @@
+.b:hover {
+   background-color: #b30098;
+}
+.input {
+   outline:none;
+}
+.input:focus{
+    border-color: #3000b3;
+}
+.item1:first-child{
+   background-color:yellow ;
+}
+.item1:last-child{
+    background-color: green;
+}
+a:hover{
+background-color: brown;
+}
+.li:nth-child(odd) {
+   background-color: #cf0606;
+}
+
+.l:first-child:hover{
+    background-color: violet;
+}
+.l:last-child:focus{
+    border-color: #cf0606;
+    background-color: aqua;
+}
