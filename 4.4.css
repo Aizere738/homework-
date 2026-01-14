@@ -1,0 +1,144 @@
+.class1{
+    display:block;
+    background-color: aqua;
+}
+.class2{
+    display:inline;
+    background-color: blueviolet;
+}
+.class3{
+    display:flex;
+    background-color: brown;
+    justify-content: space-between;
+    align-items: center;
+    height: 200px;
+    width:200px;
+}
+.class4{
+    height:10px;
+    width:10px;
+    background-color: antiquewhite;
+}
+.div{
+   display:flex;
+   border: 2px solid black;
+   padding: 10px;
+}
+.class{
+    background-color: blueviolet;
+    padding: 20px;
+    margin: 5px;
+    border:1px solid blue
+}
+.class5{
+    display:flex;
+    width:200px;
+    height:200px;
+    flex-flow:column wrap;
+}
+.div2{
+    width:200px;
+    height:200px;
+    align-items:center;
+    background-color: aqua;
+    margin: 5px;
+}
+.container{
+    display:flex;
+    flex-wrap:wrap;
+    width:300px;
+    height:200px;
+    justify-content:center;
+    align-items:row;
+    align-content:center;
+}
+.item12{
+    width: 50px;
+    height: 50px;
+    background-color: orange;
+    align-items:center;
+}
+.container2 {
+    display: flex;
+    width: 600px;
+    border: 2px  black;
+    background-color: lightblue;
+    border: 1px solid blue;
+    text-align: center;
+    padding: 20px;
+    font-size: 18px;
+}
+.item1 {
+    flex-grow: 1;
+    flex-shrink: 1;
+    flex-basis: 100px;
+}
+.item2 {
+    flex-grow: 2;
+    flex-shrink: 1;
+    flex-basis: 100px;
+}
+.item3 {
+    flex: 1 2 150px;
+}
+.container3{
+  display: flex;
+  width: 600px;
+  border: 1px solid black;
+  padding: 20px;
+  text-align: center;
+  background-color: rgb(75, 236, 72);
+}
+
+.first {
+  flex: 0 0 50%;
+}
+
+.second {
+  flex: 1;
+}
+
+.third {
+  flex: 0 0 100px;
+}
+.menu{
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 60px;
+    background-color: aquamarine;
+}
+.gallery{
+    display:flex;
+    flex-wrap: wrap;
+    gap:10px;
+    padding: 20px;
+    height: 200px;
+    border:3px solid black;
+}
+.card1{
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+    
+}
+
+.card2{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    
+}
+.card3{
+    background-color: rgb(0, 255, 89);
+    width: 200px;
+    height: 200px;
+   
+}
+.card4{
+    background-color: violet;
+    width: 200px;
+    height: 200px;
+    
+}
+
