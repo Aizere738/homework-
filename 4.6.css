@@ -1,3 +1,6 @@
+body{
+   background-color: #191919; 
+}
 .one{
     display:flex;
     padding: 43px 50px 43px 50px;
@@ -8,10 +11,8 @@
 }
 .castaway{
     display:flex;
-    color:#FFFFFF;
     width: 159px;
     height: 32px;
-    font-size: 24px;
 }
 .nav{
     display:flex;
@@ -36,4 +37,133 @@
     padding:20px;
     gap:60px;
     background-color:#191919 ;
+}
+.texts{
+    font-weight: 400;
+    font-size: 70px;
+    line-height: 88px;
+    width: 526px;
+    height: 176px;
+    margin-top: 294px;
+    margin-bottom: 403px;
+    color:#FFFFFF;
+}
+.img3{
+    display: flex;
+    gap:25px;
+    margin-top: 0;
+}
+.level{
+    font-weight: 400;
+    font-size: 75px;
+    line-height: 88px;
+    color:#FFFFFF;
+    width: 160px;
+    height: 88px;
+}
+.class{
+    display:flex;
+    flex-direction: column;
+}
+.Listen{
+    color: #FFFFFF;
+    font-weight: 400px;
+    font-size: 15px;
+    line-height: 27px;
+    margin-top: 74px;
+}
+.img2{
+    width: 245px;
+    height: 32px;
+    gap: 17px;
+    display: flex;
+    margin-top: 16px;
+    margin-bottom: 153px;
+}
+.three{
+    display: flex;
+    padding: 100px 70px 40px 70px;
+    box-sizing: border-box;
+    gap: 609px;
+}
+.episodes{
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 79.2px;
+    width: 513px;
+    height: 80px;
+    color: #FFFFFF;
+}
+.btnn{
+    width: 178px;
+    height: 51px;
+    background-color: #118DA8;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 27px;
+    color:#FFFFFF;
+    padding: 12px 15px 12px 20px;
+    border-radius: 6px;
+    box-sizing: border-box;
+}
+.four{
+    background-color: #000000;
+    display: flex;
+    align-items: center;
+    gap:53px;
+    padding:40px 70px 60px 70px;
+    border-radius: 32px;
+    box-sizing: border-box;
+    width: 1300px;
+    height: 545px;
+}
+.text{
+    
+}
+.gear{
+    background-color: #191919;
+    color:#FFFFFF;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    width: 73px;
+    height: 27px;
+    margin-bottom: 48.44px; 
+    gap:16px;
+    padding: 0 16px;
+    box-sizing: border-box;
+    border-radius: 6px;
+}
+.episode{
+    color:#118DA8;
+    font-size: 17px;
+    line-height: 27px;
+    font-weight: 400;
+    margin-bottom:17.56px ;
+}
+.title{
+    color:#FFFFFF;
+    font-size: 64px;
+    line-height: 70.4px;
+    font-weight: 400;
+    margin-bottom: 28px;
+}
+.subtitle{
+    color:#ffffffb3 ;
+    font-size: 22px;
+    line-height: 33px;
+    font-weight: 400;
+    margin-bottom: 18px;
+}
+.btn{
+    width: 208px;
+    height: 51px;
+    background-color: #118DA8;
+    color: #FFFFFF;
+    border-radius: 6px;
+    border: none;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    padding:12px 15px 12px 20px;
 }
