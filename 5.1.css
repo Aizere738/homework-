@@ -1,0 +1,106 @@
+body{
+    background-color: #758492;
+}
+.cards{
+    display:grid;
+    grid-template-columns: 380px 380px 380px;
+    grid-template-rows: 582px 582px 582px;
+    gap:20px;
+    align-content: center;
+    justify-content: center;
+}
+.first{
+    width: 380px;
+    height: 582px;
+    background-color: #FFFFFF;
+    border-radius: 10px;
+}
+.text{
+    padding: 50px 89px 50px 44px;
+    box-sizing: border-box;
+    background-color: #FFFFFF;
+    border:#F2F6FA solid 1px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+.name{
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 143%;
+    color: #2E363E;
+}
+.description{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 150%;
+    color:#2E363E;
+    margin-top: 12px;
+}
+.prize{
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 150%;
+    color: #434B53;
+    margin-top: 24px;
+    margin-bottom: 14px;
+}
+.btn{
+    width:163px;
+    height:68px;
+    background-color: #FED84C;
+    color: #2E363E;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 152%;
+    padding: 20px 40px 20px 40px;
+    border-radius: 8px;
+    border:none;
+}
+.second{
+    width: 380px;
+    height: 582px;
+    background-color: #FFFFFF;
+    border-radius: 10px;
+}
+.third{
+    width: 380px;
+    height: 582px;
+    background-color: #FFFFFF;
+    border-radius: 10px;
+}
+.fourth{
+    width: 380px;
+    height: 582px;
+    background-color: #FFFFFF;
+    border-radius: 10px;
+}
+.fifth{
+    width: 380px;
+    height: 582px;
+    background-color: #FFFFFF;
+    border-radius: 10px;
+}
+.sixth{
+    width: 380px;
+    height: 582px;
+    background-color: #FFFFFF;
+    border-radius: 10px;
+}
+.seventh{
+    width: 380px;
+    height: 582px;
+    background-color: #FFFFFF;
+    border-radius: 10px;
+}
+.eighth{
+    width: 380px;
+    height: 582px;
+    background-color: #FFFFFF;
+    border-radius: 10px;
+}
+.nineth{
+    width: 380px;
+    height: 582px;
+    background-color: #FFFFFF;
+    border-radius: 10px;
+}
